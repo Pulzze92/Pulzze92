@@ -6,8 +6,7 @@
     <li>HTML<img width="20" src="https://user-images.githubusercontent.com/76836870/170835574-8768bb09-c8e9-4e7f-9960-d4f59ef97a0f.png">
 </li>
     <li>CSS<img width="20" src="https://user-images.githubusercontent.com/76836870/170835631-c7fec102-e449-4196-9c55-8236fa060cde.png
-"/SASS<img width="20" src="https://user-images.githubusercontent.com/76836870/170835656-fc04f581-4048-4b10-aded-dacb6641e4c7.png
-"/SCSS</li>
+">/SASS<img width="20" src="https://user-images.githubusercontent.com/76836870/170835656-fc04f581-4048-4b10-aded-dacb6641e4c7.png">/SCSS</li>
     <li>BEM</li>
     <li>JavaScript (ES5/ES6)<img width="20" src="https://user-images.githubusercontent.com/76836870/170835697-d902ea9c-e3f0-479f-86a6-bd5e518e9fe7.png
 "></li>

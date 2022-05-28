@@ -3,7 +3,7 @@
 <h1>Hello, I am Alexander, front-end developer.</h1>
 <p>I've been doing it for 2 years. My stack is:<p>
   <ul>
-    <li>HTML<img width="10" src="https://user-images.githubusercontent.com/76836870/170835574-8768bb09-c8e9-4e7f-9960-d4f59ef97a0f.png">
+    <li>HTML<img width="20" src="https://user-images.githubusercontent.com/76836870/170835574-8768bb09-c8e9-4e7f-9960-d4f59ef97a0f.png">
 </li>
     <li>CSS/SASS/SCSS</li>
     <li>BEM</li>

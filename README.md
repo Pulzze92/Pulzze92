@@ -45,11 +45,13 @@
       <ul>
         <li><a href="https://pulzze92.github.io/digital_store/">The project of online shop of the loft furniture. Made with React, React-router-dom, Redux Toolkit, TypeScript, Pagination, Axios</a></li>
         <li><a href="https://pulzze92.github.io/momentum/">Web app with weather API, quotes, and current time. Made in JS</a></li>
+        <li><a href=""></a>Migration project in JS to TypeScript</li>
         <li><a href="https://pulzze92.github.io/pixel_art/">The game of pixels, which can be selected and change color. Made with using JS</a></li>
         <li><a href="https://pulzze92.github.io/virtual_keyboard/">Virtual keyboard app. Made with using JS</a></li>
         <li><a href="https://pulzze92.github.io/virtual-piano/">Virtual piano. Made with using JS</a></li>
         <li><a href="https://pulzze92.github.io/cube_game/">The cube game app. Try to cath as more cubes as you can!</a></li>
         <li><a href="https://pulzze92.github.io/JavaScript_Drum_Kit/">Drum kit. Also as a virtual piano app can play sounds of drum</a></li>
+        <li><a href=""></a></li>
         <li><a href=""></a></li>
       </ul>
     </div>

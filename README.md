@@ -44,6 +44,11 @@
       The list of my projects:
       <ul>
         <li><a href="https://pulzze92.github.io/digital_store/">The project of online shop of the loft furniture. Made with React, React-router-dom, Redux Toolkit, TypeScript, Pagination, Axios</a></li>
+        <li><a href="https://pulzze92.github.io/pixel_art/">The game of pixels, which can be selected and change color. Made with using JS</a></li>
+        <li><a href="https://pulzze92.github.io/virtual_keyboard/">Virtual keyboard app. Made with using JS</a></li>
+        <li><a href="https://pulzze92.github.io/virtual-piano/">Virtual piano. Made with using JS</a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
       </ul>
     </div>
 <p>📫 How to reach me:</p>

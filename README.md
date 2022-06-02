@@ -46,7 +46,7 @@
         <li><a href="https://pulzze92.github.io/digital_store/">The project of online shop of the loft furniture. Made with React, React-router-dom, Redux Toolkit, TypeScript, Pagination, Axios</a></li>
         <li><a href="https://pulzze92.github.io/momentum/">Web app with weather API, quotes, and current time. Made in JS</a></li>
         <li><a href="https://pulzze92.github.io/migration_to_typescript/">Migration project in JS to TypeScript</a></li>
-        <li><a href="https://pulzze92.github.io/museum/"></a>The landing page of Louvre museum</li>
+        <li><a href="https://pulzze92.github.io/museum/">The landing page of Louvre museum</a></li>
         <li><a href="https://pulzze92.github.io/pixel_art/">The game of pixels, which can be selected and change color. Made with using JS</a></li>
         <li><a href="https://pulzze92.github.io/virtual_keyboard/">Virtual keyboard app. Made with using JS</a></li>
         <li><a href="https://pulzze92.github.io/virtual-piano/">Virtual piano. Made with using JS</a></li>

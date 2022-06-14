@@ -18,8 +18,11 @@
     <li>Eslint /Prettier</li>
     <li>Figma/Avocode</li>
     <li>NPM/YARN</li>
+    <li>Solidity</li>
+    <li>Hardhat/Truffle</li>
     
   </ul>
+  [![Pulzze92 GitHub stats](https://github-readme-stats.vercel.app/api?username=pulzze92)](https://github.com/anuraghazra/github-readme-stats)
   <div>
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170835574-8768bb09-c8e9-4e7f-9960-d4f59ef97a0f.png">
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170835631-c7fec102-e449-4196-9c55-8236fa060cde.png">
@@ -52,6 +55,7 @@
         <li><a href="https://pulzze92.github.io/virtual-piano/">Virtual piano. Made with using JS</a></li>
         <li><a href="https://pulzze92.github.io/cube_game/">The cube game app. Try to cath as more cubes as you can!</a></li>
         <li><a href="https://pulzze92.github.io/JavaScript_Drum_Kit/">Drum kit. Also as a virtual piano app can play sounds of drum</a></li>
+        <li><a href="https://pulzze92.github.io/mint-web3/">Project with using of blockchain stack: Solidity, Hardhat and React.js</a></li>
       </ul>
     </div>
 <p>📫 How to reach me:</p>

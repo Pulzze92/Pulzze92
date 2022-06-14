@@ -1,5 +1,8 @@
+
 <h1>Hello, I am Alexander, front-end developer.</h1>
 <p>I've been doing it for 2 years. My stack is:<p>
+   <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/cd/e4/53/cde453f3bbd6d192d6d675f6112dc184.jpg">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pulzze92&theme=merko" width="500">
   <ul>
     <li>HTML</li>
     <li>CSS/SASS/SCSS</li>
@@ -22,7 +25,7 @@
     <li>Hardhat/Truffle</li>
     
   </ul>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulzze92&theme=merko" style="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pulzze92&theme=merko" align="center">
   <div>
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170835574-8768bb09-c8e9-4e7f-9960-d4f59ef97a0f.png">
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170835631-c7fec102-e449-4196-9c55-8236fa060cde.png">

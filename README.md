@@ -22,7 +22,7 @@
     <li>Hardhat/Truffle</li>
     
   </ul>
-  [![Pulzze92 GitHub stats](https://github-readme-stats.vercel.app/api?username=pulzze92)]
+  <img src="https://github-readme-stats.vercel.app/api?username=Pulzze92&theme=merko" style="">
   <div>
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170835574-8768bb09-c8e9-4e7f-9960-d4f59ef97a0f.png">
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170835631-c7fec102-e449-4196-9c55-8236fa060cde.png">

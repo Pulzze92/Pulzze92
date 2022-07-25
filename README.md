@@ -54,7 +54,7 @@
         <li><a href="https://github.com/Pulzze92/migration_to_typescript">Migration project in JS to TypeScript</a></li>
         <li><a href="https://pulzze92.github.io/museum/">The landing page of Louvre museum</a></li>
         <li><a href="https://pulzze92.github.io/pixel_art/">The game of pixels, which can be selected and change color. Made with using JS</a></li>
-        <li><a href="https://pulzze92.github.io/virtual_keyboard/">Virtual keyboard app. Made with using JS</a></li>
+        <li><a href="https://pulzze92.github.io/market-dashboard/">Market dashboard</a></li>
         <li><a href="https://pulzze92.github.io/virtual-piano/">Virtual piano. Made with using JS</a></li>
         <li><a href="https://pulzze92.github.io/cube_game/">The cube game app. Try to cath as more cubes as you can!</a></li>
         <li><a href="https://pulzze92.github.io/JavaScript_Drum_Kit/">Drum kit. Also as a virtual piano app can play sounds of drum</a></li>

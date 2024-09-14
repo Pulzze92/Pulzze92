@@ -1,29 +1,19 @@
 
 <h1>Hello, I am Alexander, front-end developer.</h1>
-<p>I've been doing it for 2 years. My stack is:<p>
+<p>I've been doing it for 4 years. My stack is:<p>
    <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/cd/e4/53/cde453f3bbd6d192d6d675f6112dc184.jpg">
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pulzze92&theme=merko" width="500">
   <ul>
     <li>HTML</li>
     <li>CSS/SASS/SCSS</li>
-    <li>BEM</li>
-    <li>JavaScript (ES5/ES6)</li>
+    <li>JavaScript</li>
     <li>TypeScript</li>
     <li>React</li>
-    <li>React-router-dom</li>
-    <li>React-skeleton</li>
     <li>Redux</li>
-    <li>Redux-toolkit</li>
-    <li>Git/Github </li>
+    <li>Git</li>
     <li>Node.js</li>
     <li>Next.js </li>
-    <li>Webpack </li>
-    <li>Eslint /Prettier</li>
-    <li>Figma/Avocode</li>
-    <li>NPM/YARN</li>
     <li>Solidity</li>
-    <li>Hardhat/Truffle</li>
-    
   </ul>
   <img src="https://github-readme-stats.vercel.app/api?username=Pulzze92&theme=merko" align="center">
   <div>

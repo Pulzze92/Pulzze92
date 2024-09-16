@@ -41,7 +41,6 @@
   <li>e-mail: <a href="mailto:pulzze92@yahoo.com">pulzze92@yahoo.com</a></li>
   <li>telegram: <a href="https://t.me/Pulzze">@Pulzze</a></li>
 </ul>
-<p>🔭 I’m currently working on online store of furniture</p>
 
 <!--
 **Pulzze92/Pulzze92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

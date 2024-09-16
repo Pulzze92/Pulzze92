@@ -35,16 +35,7 @@
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170836976-6da67c9d-b380-4372-b117-5fcdccd09717.png">
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170837012-d5b6659e-9b6f-469b-b591-28e21823f24f.png">
   <img width="20" src="https://user-images.githubusercontent.com/76836870/170837023-53121015-3e92-4b8f-88d0-2c7836960e2d.png">
-  <div>
-    <div>
-      The list of my projects:
-      <ul>
-        <li><a href="https://pulzze92.github.io/mint-web3/">Project with using of blockchain stack: Solidity, Hardhat and React.js</a></li>
-        <li><a href="https://pulzze92.github.io/market-dashboard/">Market dashboard</a></li>
-        <li><a href="https://pulzze92.github.io/digital_store/">The project of online shop of the loft furniture. Made with React, React-router-dom, Redux Toolkit, TypeScript, Pagination, Axios</a></li>
-        <li><a href="https://github.com/Pulzze92/migration_to_typescript">Migration project in JS to TypeScript</a></li>
-      </ul>
-    </div>
+
 <p>📫 How to reach me:</p>
 <ul>
   <li>e-mail: <a href="mailto:pulzze92@yahoo.com">pulzze92@yahoo.com</a></li>
